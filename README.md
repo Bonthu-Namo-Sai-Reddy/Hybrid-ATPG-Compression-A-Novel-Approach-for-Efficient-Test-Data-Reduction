@@ -1,2 +1,3 @@
 # Hybrid-ATPG-Compression-A-Novel-Approach-for-Efficient-Test-Data-Reduction
 Developed a Hybrid ATPG Compression Model integrating Run-Length Encoding (RLE), Dictionary-Based Encoding, and X-Filling to optimize test data compression. Implemented using Verilog HDL and synthesized in Xilinx Vivado for FPGA deployment, achieving high compression ratios with minimal hardware overhead while maintaining fault coverage. Focused on improving test efficiency, reducing storage, and enhancing fault detection in VLSI circuits.
+![image](https://github.com/user-attachments/assets/a279520b-a539-40af-b209-464bb3b06bca)
